@@ -1,6 +1,12 @@
+<div align="center">
+  <img src="assets/logo.png" width="200" alt="OPAC Logo" />
+</div>
+
 # ValACE OPAC - Architecture & System Design
 
 > **Note:** The full source code for this system is closed-source as it belongs to the Valenzuela City Academic Center of Excellence (ValACE). This repository serves as a technical showcase of the system architecture and stack I engineered as a Full-Stack Web Developer Intern.
+
+![OPAC Mockup UI](./assets/app-mockup-1.png)
 
 # ValACE New OPAC - Library Resource Management System
 
@@ -780,9 +786,3 @@ VITE_API_BASE_URL=https://your-domain.com/api/v1
 
 **Jerry Castrudes**
 - GitHub: [@Soujiro0](https://github.com/Soujiro0)
-
-## 📂 Architectural Exhibits
-*(Link directly to the safe code snippets you extracted)*
-* 📄 [Sanitized Database Schema](./assets/database-schema.sql)
-* 📄 [Meilisearch Integration Snippet](./assets/search-service.php)
-* 📄 [Queue Worker Job Example](./assets/sync-job.php)
